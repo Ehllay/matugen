@@ -1,6 +1,7 @@
 [package]
 name = "matugen"
 version = "2.1.0"
+authors = ["InioX"]
 description = "A material you color generation tool with templates"
 repository = "https://github.com/InioX/matugen"
 categories = ["command-line-utilities"]
@@ -42,3 +43,4 @@ reqwest = { version = "0.11.23", default_features=false, features = ["blocking",
 material-colors = "0.1.4"
 ahash = "0.8.7"
 indexmap = "2.2.2"
+cargo-aur = "1.7.1"
